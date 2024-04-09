@@ -1,6 +1,6 @@
 import Image from "next/image";
-import logo from "@assets/images/logo-white.png";
-import profileDefault from "@assets/images/profile.png";
+import logo from "@/assets/images/logo-white.png";
+import profileDefault from "@/assets/images/profile.png";
 
 const Navbar = () => {
   return (
